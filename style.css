@@ -1,0 +1,67 @@
+
+.sultan{
+    background-color: #1e3932;
+    height: 68px;
+    color: white;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
+.heading{
+    padding-bottom: 18px;
+    padding-top: 2%;
+    padding-left: 8%;
+}
+.d-flex align-items-center justify-content{
+    padding-bottom: 3%;
+    padding-top: 1%;
+    padding-left: 7%;
+    display: flex;
+}
+.bestsellerimg,.drinksimg,.foodimg,.merchandiseimg,.readytoeatimg,.coffeathomeimg{
+    padding-right: 2%;
+    padding-left: 7%;
+}
+.reward{
+    padding-left: 8%;
+    padding-right: 46%
+}
+.logoimg{
+    padding-right: 2%;
+}
+.headingofblock{
+    display: flex;
+    padding-left: 7%;
+    padding-bottom: 3%;
+}
+.bestseller,.Drinks,.Foods,.Merchandise,.ReadyToEat,.CoffeeAtHome{
+    padding-left: 2%;
+    padding-right: 7%
+}
+.Drinks{
+    padding-left: 5%;
+}
+.Foods{
+    padding-left: 7%;
+}
+.Merchandise{
+    padding-left: 6%;
+}
+.ReadyToEat{
+    padding-left: 4%
+}
+.CoffeeAtHome{
+    padding-left: 3%;
+}
+.searchimg{
+    position: relative;
+    right: -202px;
+}
+.imageof{
+    height: 96%;
+}
+.space{
+    margin: 66%;
+    width: 63%
+}
